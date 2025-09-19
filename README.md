@@ -1,5 +1,3 @@
----
-
 # Event-Driven Ledger with Zero-Knowledge Proofs (Go)
 
 ## 📌 Overview
